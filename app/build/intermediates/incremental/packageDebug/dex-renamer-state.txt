@@ -1,0 +1,7 @@
+#Sun Oct 09 16:10:42 BRT 2016
+base.0=/home/shapolink/AndroidStudioProjects/Membros/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fd01a8f0b16c980cb5fb94a11ace89168eb7a6ab
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/shapolink/AndroidStudioProjects/Membros/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f4d2f191f92ba41e235f054fde9686fc536e26ce/classes.dex
+base.1=/home/shapolink/AndroidStudioProjects/Membros/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f4d2f191f92ba41e235f054fde9686fc536e26ce
+file.0=/home/shapolink/AndroidStudioProjects/Membros/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fd01a8f0b16c980cb5fb94a11ace89168eb7a6ab/classes.dex
